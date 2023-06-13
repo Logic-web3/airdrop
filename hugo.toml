@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://logic-web3.github.io/airdrop/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Logic空投攻略'
 theme = 'PaperMod'
