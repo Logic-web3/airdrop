@@ -15,7 +15,7 @@ TocOpen: true # 展开 Table Of Content
 ![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/images/Bitcoin%20Price%20Prediction.png)
 
 ![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/images/bitcoin%20price%20prediction%202.png)
-- 日线周期放大图
+                                         （日线周期放大图）
 
 首先在做中短线交易，我们还是需要大周期找到指导性的方向，我们可得到几个信息：
 - 从日线图来讲，在28998有明显的阻力，在这个位置我们可以在小时级别的周期找机会做空的
