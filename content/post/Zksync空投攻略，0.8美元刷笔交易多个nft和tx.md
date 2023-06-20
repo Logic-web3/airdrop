@@ -1,5 +1,5 @@
 ---
-title: "Zksync空投攻略，0.8美元刷笔交易多个nft和tx【2023年6月20日更新】"
+title: "【Zksync空投攻略】0.8美元刷笔交易多个nft和tx【2023年6月20日更新】"
 date: 2023-06-20T09:34:37+08:00
 draft: false
 ShowToc: true # 开启 Table Of Content 功能

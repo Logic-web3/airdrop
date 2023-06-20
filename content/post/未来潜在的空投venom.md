@@ -1,5 +1,5 @@
 ---
-title: "未来潜在的大空投（超过 Arbitrum）?Venom Foundation测试网已启动，5分钟领取免费NFT"
+title: "【Venom空投攻略】未来潜在的大空投（超过 Arbitrum）?Venom Foundation测试网已启动，5分钟领取免费NFT"
 date: 2023-06-17T16:31:32+08:00
 draft: false
 ShowToc: true # 开启 Table Of Content 功能

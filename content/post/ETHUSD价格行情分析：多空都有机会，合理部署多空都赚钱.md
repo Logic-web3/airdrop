@@ -1,5 +1,5 @@
 ---
-title: "ETHUSD价格行情分析：强势上升重回2462？合理部署多空都赚钱【Logic交易技术分析】【2023/06/18更新】"
+title: "【行情分析】ETHUSD：强势上升重回2462？合理部署多空都赚钱【Logic交易技术分析】【2023/06/18更新】"
 date: 2023-06-18T19:20:04+08:00
 draft: false
 ShowToc: true # 开启 Table Of Content 功能

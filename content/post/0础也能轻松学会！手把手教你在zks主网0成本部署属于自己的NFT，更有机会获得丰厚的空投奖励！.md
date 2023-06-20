@@ -1,5 +1,5 @@
 ---
-title: "0础也能轻松学会！手把手教你在zks主网0成本部署属于自己的NFT，更有机会获得丰厚的空投奖励！"
+title: "【Zksync空投攻略】0础也能轻松学会！手把手教你在zks主网0成本部署属于自己的NFT，更有机会获得丰厚的空投奖励！"
 date: 2023-06-13T20:12:04+08:00
 draft: false
 ShowToc: true # 开启 Table Of Content 功能

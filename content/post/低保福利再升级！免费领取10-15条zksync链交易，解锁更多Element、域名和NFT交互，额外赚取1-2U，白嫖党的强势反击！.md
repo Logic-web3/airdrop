@@ -1,5 +1,5 @@
 ---
-title: "低保福利再升级！免费领取10 15条zksync链交易，解锁更多Element、域名和NFT交互，额外赚取1 2U，白嫖党的强势反击！"
+title: "【Zksync空投攻略】低保福利再升级！免费领取10 15条zksync链交易，解锁更多Element、域名和NFT交互，额外赚取1 2U，白嫖党的强势反击！"
 date: 2023-06-15T16:53:32+08:00
 draft: false
 ShowToc: true # 开启 Table Of Content 功能
