@@ -12,7 +12,7 @@ TocOpen: true # 展开 Table Of Content
 
 # 周线周期分析
 
-![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/images/ETHUSD%20price%20prediction%2020230618%201.png)
+![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/../../static/image/ETHUSD%20prediction.png)
 
 首选我们需要通过大周期的分析，给到我们一些方向和位置的指引。在周线图，我们可以看到在2462有明显的支撑，突破支撑后，支撑变成阻力，向下走了一段距离。
 但是，很明显，在下方1335的位置，有明显的支撑，导致价格不能创新低，不能延续下降趋势，反而重新企稳在2462的支撑位置之上，那么大方向上，我们还是倾向做多，
@@ -20,7 +20,7 @@ TocOpen: true # 展开 Table Of Content
 
 # 日线周期分析
 
-![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/images/ETHUSD%20price%20prediction%2020230618%202.png)
+![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/../../static/image/ETHUSD%20prediction%202.png)
 
 在日线图，我们可以看到一个清晰的上升节奏（蓝色趋势线），那么我们肯定是部署做多为主。
 在1697这个位置，是重要的部署做多的位置，因为有多条件共鸣：
@@ -34,7 +34,7 @@ TocOpen: true # 展开 Table Of Content
 
 ## 做空部署
 
-![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/images/ETHUSD%20price%20prediction%2020230618%203.png)
+![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/../../static/image/ETHUSD%20prediction%203.png)
 
 肯定会有朋友会疑惑，刚才在上面说做空位置，为什么要有做空的部署，其实你想想，一波上升趋势并不是一条直线上升的，总体都是上升一段，再回调下降一段，再继续上升。
 
@@ -49,7 +49,7 @@ TocOpen: true # 展开 Table Of Content
 
 ## 做多部署
 
-![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/images/ETHUSD%20price%20prediction%2020230618%204.png)
+![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/../../static/image/ETHUSD%20prediction%204.png)
 
 正如我们在日线周期的图分析，触碰了日线的做多位置，我们等机会做多，当下本来是有一个下降趋势（蓝色线），而且现在下降趋势已经被打破了，所以，现在就是部署做多的机会，重要的进场位置就是1680，同样地，这里也是多条件共鸣的位置：
 - 打破下降趋势动能段的黄金分割0.618位置
