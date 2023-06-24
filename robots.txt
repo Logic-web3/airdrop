@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://logic-web3.github.io/airdrop/sitemap.xml
