@@ -1,5 +1,5 @@
 ---
-title: "📈每周行情分析"
+title: "🚀ZKsync空投攻略"
 # description: "XXX"
 hidemeta: true 
 ---

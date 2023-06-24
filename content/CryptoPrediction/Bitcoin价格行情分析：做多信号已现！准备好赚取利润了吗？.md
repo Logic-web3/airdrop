@@ -12,9 +12,9 @@ TocOpen: true # 展开 Table Of Content
 
 # 日线周期分析
 
-![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/images/Bitcoin%20Price%20Prediction.png)
+![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/../../static/image/BTCUSD%20prediction.png)
 
-![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/images/bitcoin%20price%20prediction%202.png)
+![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/../../static/image/BTCUSD%20prediction%202.png)
                                          （日线周期放大图）
 
 首先在做中短线交易，我们还是需要大周期找到指导性的方向，我们可得到几个信息：
@@ -27,7 +27,7 @@ TocOpen: true # 展开 Table Of Content
 
 一般我们的入场周期是在1H周期，对于交易来说，这样子更加直博，盈亏会比更加好。日线，或者4H的周期一般只是做方向和位置上的选择提示
 
-![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/images/bitcoin%20price%20prediction%203.png)
+![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/../../static/image/BTCUSD%20prediction%203.png)
 
 从1H周期的图，我们可以看到，之前1H周期有明显的下降趋势（蓝色趋势线），触碰日线的支撑位置（25247）后，下降趋势已经被突破，结合整个故事来讲：就是触碰日线做多的重要位置，1H的下降趋势已经打破，那么我们就可以找机会进场做多！
 
@@ -43,7 +43,7 @@ TocOpen: true # 展开 Table Of Content
 
 ## 做空策略部署-1
 
-![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/images/bitcoin%20price%20prediction%204.png)
+![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/../../static/image/BTCUSD%20prediction%204.png)
 
 在27443有明显的阻力位置，我会在这个位置留意做空的机会，如果突破这个位置，又快速向下穿这个阻力位置，有回踩动作，再突破，就是一个很好的部署做空的机会，当然这个位置做空，只是做一波短空，第一个目标也就是26414这个位置，到达这个位置，就需要保护利润了，空间并不多。
 
@@ -51,7 +51,7 @@ TocOpen: true # 展开 Table Of Content
 
 ## 做空策略部署-2
 
-![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/images/bitcoin%20price%20prediction%205.png)
+![](https://raw.githubusercontent.com/Logic-web3/airdrop/main/content/post/../../static/image/BTCUSD%20prediction%205.png)
 
 这个位置的策略和```做空策略部署-1```是类似的，可以做多，可以做空，但是相比27443这个位置，我更加看重28439这个位置来进行做空机会的捕捉，因为这里和日线周期的阻力已经很近了！起到共鸣的作用，所以，在这个位置我会优先考虑部署做空！触碰下方27443，就要注意保护利润啦，虽然在这个位置，我觉得出现做空的机会的话，极有可能可以下探到25580左右，是一个盈亏比极高的做空位置
 
