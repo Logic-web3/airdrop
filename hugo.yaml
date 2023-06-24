@@ -65,9 +65,9 @@ languages:
             name: 🏠主页
             url: /
             weight: 2
-          - identifier: CryptoPrediction
+          - identifier: cryptoprediction
             name: 📈每周行情分析
-            url: CryptoPrediction
+            url: cryptoprediction
             weight: 3
           - identifier: ZksyncAirdrop
             name: 🚀ZKsync空投攻略
