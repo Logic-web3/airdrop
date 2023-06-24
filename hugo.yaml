@@ -69,13 +69,13 @@ languages:
             name: 📈每周行情分析
             url: cryptoprediction
             weight: 3
-          - identifier: ZksyncAirdrop
-            name: 🚀ZKsync空投攻略
-            url: ZksyncAirdrop
+          - identifier: zksyncAirdrop
+            name: 🚀zksync空投攻略
+            url: zksyncAirdrop
             weight: 20
-          - identifier: TopAirdrop
+          - identifier: topAirdrop
             name: 🛫其他热门空投
-            url: TopAirdrop
+            url: topAirdrop
             weight: 40
           - identifier: about
             name: 🙋🏻‍♂️关于
