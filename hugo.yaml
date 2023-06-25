@@ -57,10 +57,10 @@ languages:
       #       url: posts/life
       menu:
         main:
-          - identifier: search
-            name: 🔍搜索
-            url: search
-            weight: 1
+          # - identifier: search
+          #   name: 🔍搜索
+          #   url: search
+          #   weight: 1
           - identifier: home
             name: 🏠主页
             url: /
@@ -77,12 +77,12 @@ languages:
             name: 🛫其他热门空投
             url: topairdrop
             weight: 40
-          - identifier: about
-            name: 🙋🏻‍♂️关于
-            url: about
-            weight: 50
-          - identifier: links
-            name: 🤝友链
-            url: links
-            weight: 60
+          # - identifier: about
+          #   name: 🙋🏻‍♂️关于
+          #   url: about
+          #   weight: 50
+          # - identifier: links
+          #   name: 🤝友链
+          #   url: links
+          #   weight: 60
 
