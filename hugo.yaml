@@ -1,12 +1,12 @@
 # baseURL = 'https://logic-web3.github.io/airdrop/'
 # languageCode = 'en-us'
-# title = 'Logic空投攻略'
+# title = 'Logic交易分析'
 # theme = 'PaperMod'
 
 baseURL: https://logic-web3.github.io/airdrop/
 # baseURL: https://www.sulvblog.cn  # 绑定的域名
 languageCode: zh-cn # en-us
-title: Logic空投攻略
+title: Logic交易分析
 theme: PaperMod # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true #允许内联短码
