@@ -6,6 +6,7 @@ ShowToc: true # 开启 Table Of Content 功能
 TocOpen: true # 展开 Table Of Content
 ---
 
+
 # hugo 文件夾解釋
 
 dirctory Structure
